@@ -1,2 +1,2 @@
-# Terraform_Task1
-aws|terraform task1 performed under my mentor Mr. Vimal Daga
+# website hosted on AWS
+Infrastructure is created using Terraform
